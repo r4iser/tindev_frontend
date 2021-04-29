@@ -1,8 +1,9 @@
 import './App.css';
+import Routes from './routes';
 
 function App() {
-  return (
-    <h1>Hello Rocketseat</h1>
+  return (  
+    <Routes />
   );
 }
 
